@@ -65,7 +65,7 @@ currency converter
 
 <img width="563" height="660" alt="Screenshot 2025-11-23 050959" src="https://github.com/user-attachments/assets/3534ec52-b972-43f8-8690-d0a4627361c7" />
 
-2.Options available for convwersion in form of list in drop down way 
+2.Options available for conversion in form of list in drop down way 
 
 <img width="551" height="657" alt="image" src="https://github.com/user-attachments/assets/4eabcab4-f918-4e5e-b341-e9c364e95d7c" />
 
