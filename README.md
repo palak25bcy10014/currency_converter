@@ -21,7 +21,7 @@ This is a Python-based desktop application for currency conversion with GUI, des
 ### 1.  *requirement:*
 Make sure that Python is installed on your system. You can check this by running the following:
 bash
-     python -->version 3.7
+     ''' python -->version 3.7
 ### 2.  *Clone/Download the Repository:*
 Download the project files to your local machine.
 ### 3.  *Install Dependencies:*
